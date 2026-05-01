@@ -11,5 +11,5 @@ Meu foco é consolidar a transição para a área de Dados, unindo minha bagagem
 ## Estatísticas
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=igormr&theme=gruvbox-duo&hide_border=true&border_radius=4&locale=pt_BR&card_width=400&card_height=200)](https://git.io/streak-stats) ![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=igormr&theme=transparent&locale=pt-br&hide_border=true&border_radius=4&hide_rank=true&hide_title=true&text_color=FFB100)
+[![GitHub Streak](https://streak-stats.demolab.com?user=igormr&theme=gruvbox-duo&hide_border=true&border_radius=4&locale=pt_BR&card_width=400&card_height=200)](https://git.io/streak-stats)       ![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=igormr&theme=transparent&locale=pt-br&hide_border=true&border_radius=4&hide_rank=true&hide_title=true&text_color=FFB100)
 

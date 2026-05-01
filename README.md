@@ -2,7 +2,7 @@
 
 Analista de Suporte na Cyncly | MBA em Análise de Dados | SQL · Power BI · Python · Excel
 
-## Trajetoria
+## Descrição
 
 Sou formado em Análise e Desenvolvimento de Sistemas com MBA em Análise de Dados, BI e Big Data. Atualmente, trabalho como Analista de Suporte na Cyncly, onde utilizo o pensamento analítico aplicado aos softwares da linha Promob para transformar desafios técnicos em inteligência estratégica.
 

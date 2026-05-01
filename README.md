@@ -1,16 +1,18 @@
-## Hi there 👋
+# Igor Moreira
 
-<!--
-**igormr/igormr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista de Suporte na Cyncly | MBA em Análise de Dados | SQL · Power BI · Python · Excel
 
-Here are some ideas to get you started:
+### Estatísticas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img 
+    height="180" 
+    alt="GitHub Stats" 
+    src="https://github-readme-stats.vercel.app/api?username=igormr&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
+  />
+  <img 
+    height="180" 
+    alt="Tecnologias" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=igormr&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
